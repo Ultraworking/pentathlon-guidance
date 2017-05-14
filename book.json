@@ -1,7 +1,6 @@
 {
   "language": "en",
-  "pentathlonNumber": 4,
-  "pentathlon": {
-    "number": 4
+  "variables": {
+    "pentathlonNumber": 4
   }
 }
