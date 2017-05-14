@@ -1,3 +1,6 @@
 {
-  "language": "en"
+  "language": "en",
+  "pentathlon": {
+    "number": 4
+  }
 }
