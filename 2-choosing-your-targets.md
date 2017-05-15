@@ -1,3 +1,17 @@
+# The Five Scored Categories of the Pentathlon
+
+The Ultraworking Pentathlon will be scored on five points –
+
+* Sleep/Wake Schedule
+* Most Important Work \(scored for both Consistency and Depth\)
+* Physical Fitness
+* Nutrition
+* Planning
+
+Across all attendees, there are different mixes of experience and skill in these areas. Please remember that, while this is a competition, you’re competing more against yourself than other participants. 
+
+The main point of the competition is to provide a backdrop that allows you to thrive as much as possible during the Pentathlon and to develop life-long skills.
+
 # Guidance on Choosing Your Targets
 
 At the end of the day, you will choose your own targets, but if we think you’re making an error, we’ll point it out to you.
@@ -51,4 +65,3 @@ Planning is binary – you planned the day, or you didn’t.
 Guidance: Decide whether you’re going to be planning the next day the night before, or planning each day the morning of. If you’re doing evening planning, you need to at least look at your plan in the morning for it to count.
 
 Commentary: Evening planning or morning planning could both work. Evening planning tends to be a little more robust, because the morning can come fast at us, but Kai Zau plans each day in the morning. Either way can work.
-
