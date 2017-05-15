@@ -1,0 +1,12 @@
+{
+  "name": "uw-pentathlon-guidance",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "gitbook serve --log=debug --debug"
+  },
+  "devDependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
+}
