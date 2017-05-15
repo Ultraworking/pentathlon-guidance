@@ -20,7 +20,7 @@ Behind-the-Scenes Theory: Systemic 1% Edges
 
 — Dr. Thomas Goerblich, Veterinarian and Journalist, Pentathlon III attendee
 
-The specific details of peak productivity aren’t hard to understand in theory — it’s putting them into practice that makes the difference. Most people know a variety of things that would help them do better \(for instance, waking earlier in the day and doing one’s most important work immediately\), but the difficulty is in actually establishing those routines. 
+The specific details of peak productivity aren’t hard to understand in theory — it’s putting them into practice that makes the difference. Most people know a variety of things that would help them do better \(for instance, waking earlier in the day and doing one’s most important work immediately\), but the difficulty is in actually establishing those routines.
 
 This leads us to some simple-but-powerful ideas — for instance, we’ve noted that setting a target “sleep time” is both more effective and more important for long-term sustained success than setting a target wake time. After all, there’s not much use in waking up at 4AM if you went to bed at 1AM — you’re going to be exhausted and not get much done.
 
@@ -38,7 +38,7 @@ You probably know the word “cognitive” — which relates to thinking — but
 
 Most people do not.
 
-Conative knowledge is knowledge that relates directly to experience. 
+Conative knowledge is knowledge that relates directly to experience.
 
 The next two paragraphs from Stanley Rosenthal’s “The Tao Te Ching: An Introduction” might seem a little technical, but will be useful in helping you understand what we’re doing on the Pentathlon and help you encode the lessons you learn in a deep way, to be more effective forever.
 
@@ -104,7 +104,7 @@ There’s a somewhat silly and dangerous idea in the Western world right now tha
 
 Obviously, this is not how any successful organization runs — we have firefighting departments in every major city, engineers think constantly about safety conditions and possible points of failure, successful businesses are constantly assessing the changing risks to their business — but for some reason, there’s a silly idea being kicked around that you shouldn’t ever “think negatively.”
 
-At Ultraworking, both our research and our experience shows that successful people think in advance about what can go wrong, and do “counterplanning” against that. 
+At Ultraworking, both our research and our experience shows that successful people think in advance about what can go wrong, and do “counterplanning” against that.
 
 We have a number of prompts in our surveys and planning tech to help you counterplan, especially about fitness — things like thinking through, in advance, what to do if you’re very sore from your last workout the next time you go to the gym.
 
@@ -126,7 +126,7 @@ This doesn’t need to be a big “production” — even a few sentences about 
 
 If you want a very simple journaling prompt, you could try what Marshall fills out at the end of every day —
 
-What went right today?  What would I do differently?  What environmental factors affected me?   What am I currently improving? 
+What went right today?  What would I do differently?  What environmental factors affected me?   What am I currently improving?
 
 The added benefit of keeping a journal is it lets you analyze what type of habits, moods, and work leads you to more success or less success over time — if you have a very successful week, for instance, you can re-read your journals and notes for lessons to implement permanently. It’s not essential, but it’s pretty well-proven to work and lead to learning a lot more about yourself — and thus to thrive more.
 
@@ -162,7 +162,7 @@ Making Lessons and Gains Concrete and Permanent
 
 Finally, we’ll again emphasize that we’d love for you to make more permanent gains as a result of participating in the Pentathlon.
 
-To do that, it’s helpful to analyze what worked for you, and why, and to make those into some easy notes that you can refresh yourself on from time to time. 
+To do that, it’s helpful to analyze what worked for you, and why, and to make those into some easy notes that you can refresh yourself on from time to time.
 
 We look to prompt this with our surveys and questions we ask, but you can above and beyond it — marking down lessons learned, why particular techniques are effective, putting those into an easily reviewable format, and sharing those with others on your team, with us, and with real-life friends and colleagues can go a long way towards having better workflows, productivity, and thriving across your life.
 
@@ -174,7 +174,7 @@ Thanks again for joining — we’re looking forward to having some great sessio
 
 If you have any friends who’d be interested in joining the Pentathlon, it’s definitely a great way for friends to connect and support each other. Just point your friend to:
 
-http://www.ultraworking.com/pentathlon/
+[http://www.ultraworking.com/pentathlon/](http://www.ultraworking.com/pentathlon/)
 
 There’ll be prompts after they join to request you as a teammate, and we’ll be happy to sort you onto the same team. \(We’ve even had husband-and-wife teams join together and have a great experience — which is awesome to see.\)
 
@@ -185,6 +185,4 @@ We’re excited and grateful to have you!
 Yours, truly,
 
 Sebastian Marshall and Kai Zau Ultraworking
-
-
 
