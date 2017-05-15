@@ -184,5 +184,6 @@ We're excited and grateful to have you!
 
 Yours, truly,
 
-Sebastian Marshall and Kai Zau Ultraworking
+Sebastian Marshall and Kai Zau   
+Ultraworking
 
