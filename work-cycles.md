@@ -1,4 +1,12 @@
-**Work Cycles are a method to reliably get a lot of hard work done.**
+# Work Cycles: A Method to Reliably Get a Lot of Hard Work Done
+
+Work Cycles are a method to reliably get a lot of hard work done.
+
+
+
+https://maxschoenberger.com
+
+
 
 // basic format
 
