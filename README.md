@@ -1,14 +1,5 @@
 # Pentathlon {{book.pentathlonNumber}} Guidance
 
-We built the Pentathlon to serve two purposes —
+Top performers all around the world have joined the _Ultraworking Pentathlon_ to help reach peak performance during the Pentathlon, and to learn and cement lessons which lead to peak performance _forever_.
 
-1. Help you get a massive dosage of peak productivity, during which time you’ll get a ton done while also improving your health and core habits;
-2. Help you learn and deeply entrain lessons on being more effective — permanently.
-
-It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number (around half) come back for further Pentathlons. We also get testimonials like —
-
-// testimonial
-
-// testimonial
-
-We’re writing up this document to share some best practices so you can hit the ground running, thrive, and especially carry those lessons forward with you forever.
+Since we started running the Pentathlon in mid-2016, we've had people join from dozens of countries in some of the most challenging professions in the world. We've had top attorneys, accountants, professionals, startup founders, managers, veterinarians, engineers, programmers, writers, translators, designers, marketers, and a whole host of other people join. 

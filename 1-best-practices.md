@@ -1,12 +1,30 @@
-# Behind-the-Scenes Theory
+# 
+
+We built the Pentathlon to serve two purposes —
+
+1. Help you get a massive dosage of peak productivity, during which time you’ll get a ton done while also improving your health and core habits;  
+2. Help you learn and deeply entrain lessons on being more effective — permanently.
+
+It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number \(around half\) come back for further Pentathlons. We also get testimonials like —
+
+// testimonial
+
+// testimonial
+
+We’re writing up this document to share some best practices so you can hit the ground running, thrive, and especially carry those lessons forward with you forever.
+
+  
+Behind-the-Scenes Theory
 
 ## Systemic 1% Edges
+
+
 
 “I was blown away by the system — seeing it in action. It’s not the first time I read something about productivity and how to organize your day, self-help in the grand scheme of things, but seeing it put into action for the first time… it really opened my eyes and I realized how to do it in a very practical way, down to starting, stopping, setting up the time schedule, fixing the five or six important things in your day… that was actually very very worthwhile.”
 
 — Dr. Thomas Goerblich, Veterinarian and Journalist, Pentathlon III attendee
 
-The specific details of peak productivity aren’t hard to understand in theory — it’s putting them into practice that makes the difference. Most people know a variety of things that would help them do better \(for instance, waking earlier in the day and doing one’s most important work immediately\), but the difficulty is in actually establishing those routines. 
+The specific details of peak productivity aren’t hard to understand in theory — it’s putting them into practice that makes the difference. Most people know a variety of things that would help them do better \(for instance, waking earlier in the day and doing one’s most important work immediately\), but the difficulty is in actually establishing those routines.
 
 This leads us to some simple-but-powerful ideas — for instance, we’ve noted that setting a target “sleep time” is both more effective and more important for long-term sustained success than setting a target wake time. After all, there’s not much use in waking up at 4AM if you went to bed at 1AM — you’re going to be exhausted and not get much done.
 
@@ -24,7 +42,7 @@ You probably know the word “cognitive” — which relates to thinking — but
 
 Most people do not.
 
-Conative knowledge is knowledge that relates directly to experience. 
+Conative knowledge is knowledge that relates directly to experience.
 
 The next two paragraphs from Stanley Rosenthal’s “The Tao Te Ching: An Introduction” might seem a little technical, but will be useful in helping you understand what we’re doing on the Pentathlon and help you encode the lessons you learn in a deep way, to be more effective forever.
 
@@ -62,11 +80,11 @@ We're documenting them here so you can adopt those practices for yourself if you
 
 Five items we've found lead to a much greater experience on the Pentathlon and long-term gains —
 
-- Commit,
-- Counterplan,
-- Journal and take notes,
-- Establish strong team dynamics,
-- Take a leadership role on your team.
+* Commit,
+* Counterplan,
+* Journal and take notes,
+* Establish strong team dynamics,
+* Take a leadership role on your team.
 
 ## Mindset: Commitment
 
@@ -155,3 +173,4 @@ To do that, it's helpful to analyze what worked for you, and why, and to make th
 We look to prompt this with our surveys and questions we ask, but you can above and beyond it — marking down lessons learned, why particular techniques are effective, putting those into an easily reviewable format, and sharing those with others on your team, with us, and with real-life friends and colleagues can go a long way towards having better workflows, productivity, and thriving across your life.
 
 We're always very happy to review your notes and journals — if you came across anything interesting, definitely email us at sebastian@ultraworking.com and kai@ultraworking.com — we're here to support you and love seeing you thrive.
+
