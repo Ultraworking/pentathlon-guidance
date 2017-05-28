@@ -1,7 +1,8 @@
 # Summary
 
 * [Overview](README.md)
-* [Best Practices](1-best-practices.md)
-* [Choose Your Targets](2-choosing-your-targets.md)
+* [Theory and General Best Practices](1-best-practices.md)
+* [Target Setting](2-choosing-your-targets.md)
+* Work Cycles
 * [Next Steps](3-next-steps.md)
 
