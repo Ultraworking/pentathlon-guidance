@@ -10,6 +10,6 @@ But we've also learned a lot of lessons about how great teams form, how to commu
 
 We're documenting some of these lessons here so that you can get the benefit of these lessons learned, and to thrive both now and in the future — thank you for reading, and we're thrilled to have you onboard.
 
-Sebastian Marshall and Kai Zau
+Sebastian Marshall and Kai Zau  
 **[Ultraworking](https://www.ultraworking.com/pentathlon/)**
 
