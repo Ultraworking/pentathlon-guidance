@@ -1,4 +1,4 @@
-# 
+## What the Pentathlon Does
 
 We built the Pentathlon to serve two purposes —
 
@@ -13,12 +13,9 @@ It seems to be working well — we’ve now had hundreds of people join the Pent
 
 We’re writing up this document to share some best practices so you can hit the ground running, thrive, and especially carry those lessons forward with you forever.
 
-  
-Behind-the-Scenes Theory
+We'll start with some behind-the-scenes theory, and move into practical guidelines on getting the most out of the experience.
 
 ## Systemic 1% Edges
-
-
 
 “I was blown away by the system — seeing it in action. It’s not the first time I read something about productivity and how to organize your day, self-help in the grand scheme of things, but seeing it put into action for the first time… it really opened my eyes and I realized how to do it in a very practical way, down to starting, stopping, setting up the time schedule, fixing the five or six important things in your day… that was actually very very worthwhile.”
 
