@@ -5,7 +5,7 @@ We built the Pentathlon to serve two purposes —
 1. Help you get a massive dosage of peak productivity, during which time you’ll get a ton done while also improving your health and core habits;  
 2. Help you learn and deeply entrain lessons on being more effective — permanently.
 
-It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number \(around half\) come back for further Pentathlons. 
+It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number \(around half\) come back for further Pentathlons.
 
 In this document, we'll cover both some of the "behind the scenes" theory, as well as best practices to hit the ground running, thrive, and carry the lessons forward with you forever.
 
@@ -115,9 +115,9 @@ This doesn't need to be a big "production" — even a few sentences about how yo
 
 If you want a very simple journaling prompt, you could try what Marshall fills out at the end of every day —
 
-_What went right today?    
-What would I do differently?    
-What environmental factors affected me?    
+_What went right today?  
+What would I do differently?  
+What environmental factors affected me?  
 What am I currently improving?_
 
 The added benefit of keeping a journal is it lets you analyze what type of habits, moods, and work leads you to more success or less success over time — if you have a very successful week, for instance, you can re-read your journals and notes for lessons to implement permanently. It's not essential, but it's pretty well-proven to work and lead to learning a lot more about yourself — and thus to thrive more.
@@ -144,7 +144,7 @@ Some people are more shy, and others are more outgoing — but we've noticed a d
 
 On Pentathlon 2, Barbara Garnier and Caroline Poser-Carrihlo messaged using the team channel, and also sent each other text messages to pick each other up and plan together. Barbara explained,
 
-"The fact, being on a team with someone I know — Caroline who is amazingly good — of course there is an effect of pushing you forwards She pushed me forwards… even though I'm not competitive, the fact that she had such good scores, she's so good, I'd like to have at least one day where I score the maximum points… so I'm competitive, but not that much pressure either… we communicated more on bad days, "don't feel good", "feel lazy", "feel like I'm going to eat tons of sugar", it was great safety net and motivation… like a friend basically. It puts a floor under your feet, there's always just a few words to get some positive feedback."
+_"The fact, being on a team with someone I know — Caroline who is amazingly good — of course there is an effect of pushing you forwards She pushed me forwards… even though I'm not competitive, the fact that she had such good scores, she's so good, I'd like to have at least one day where I score the maximum points… so I'm competitive, but not that much pressure either… we communicated more on bad days, "don't feel good", "feel lazy", "feel like I'm going to eat tons of sugar", it was great safety net and motivation… like a friend basically. It puts a floor under your feet, there's always just a few words to get some positive feedback."_
 
 This type of communication is open to everyone — you merely need to take the initiative in sharing your experience, asking questions, encouraging your teammates, and looking for encouragement or strategizing together as needed.
 
