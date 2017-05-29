@@ -5,19 +5,13 @@ We built the Pentathlon to serve two purposes —
 1. Help you get a massive dosage of peak productivity, during which time you’ll get a ton done while also improving your health and core habits;  
 2. Help you learn and deeply entrain lessons on being more effective — permanently.
 
-It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number \(around half\) come back for further Pentathlons. We also get testimonials like —
+It seems to be working well — we’ve now had hundreds of people join the Pentathlon, and a stunningly large number \(around half\) come back for further Pentathlons. 
 
-// testimonial
-
-// testimonial
-
-We’re writing up this document to share some best practices so you can hit the ground running, thrive, and especially carry those lessons forward with you forever.
-
-We'll start with some behind-the-scenes theory, and move into practical guidelines on getting the most out of the experience.
+In this document, we'll cover both some of the "behind the scenes" theory, as well as best practices to hit the ground running, thrive, and carry the lessons forward with you forever.
 
 ## Systemic 1% Edges
 
-“I was blown away by the system — seeing it in action. It’s not the first time I read something about productivity and how to organize your day, self-help in the grand scheme of things, but seeing it put into action for the first time… it really opened my eyes and I realized how to do it in a very practical way, down to starting, stopping, setting up the time schedule, fixing the five or six important things in your day… that was actually very very worthwhile.”
+_“I was blown away by the system — seeing it in action. It’s not the first time I read something about productivity and how to organize your day, self-help in the grand scheme of things, but seeing it put into action for the first time… it really opened my eyes and I realized how to do it in a very practical way, down to starting, stopping, setting up the time schedule, fixing the five or six important things in your day… that was actually very very worthwhile.”_
 
 — Dr. Thomas Goerblich, Veterinarian and Journalist, Pentathlon III attendee
 
@@ -25,9 +19,9 @@ The specific details of peak productivity aren’t hard to understand in theory 
 
 This leads us to some simple-but-powerful ideas — for instance, we’ve noted that setting a target “sleep time” is both more effective and more important for long-term sustained success than setting a target wake time. After all, there’s not much use in waking up at 4AM if you went to bed at 1AM — you’re going to be exhausted and not get much done.
 
-That sounds simple, but a variety of simple building blocks like that — we call them “1% edges” — can come together to make you 10%, 20%, 30% more effective.
+That sounds simple, but a variety of simple building blocks — we call them “1% edges” — can come together to make you 10%, 20%, 30% more effective.
 
-Strangely, being 30% more effective on a given day can lead to being potentially double or triple as effective over a month — for instance, completing some work far in advance of a deadline means extra time to either improve and polish it further, or to take extra leisure to recharge fully, or to engage in some other not-urgent-but-important project that you otherwise might not make the time for.
+Counterintuitively, being 30% more effective on a given day can lead to being potentially double or triple as effective over a month — for instance, completing some work far in advance of a deadline means extra time to either improve and polish it further, or to take extra leisure to recharge fully, or to engage in some other not-urgent-but-important project that you otherwise might not make the time for.
 
 The challenge, again, is identifying these 1% edges and putting them into practice and having them “stick” for you — we firmly believe that running at sustainable peak productivity for even a week or two can show you what’s possible, and that foundation can be built upon.
 
@@ -45,9 +39,9 @@ The next two paragraphs from Stanley Rosenthal’s “The Tao Te Ching: An Intro
 
 Rosenthal —
 
-“Consider a thing such as a strawberry. If we wish to find the word 'strawberry', we look in a dictionary; if we wish to find a description of a strawberry, we look in an encyclopedia. But if we are hungry, we do not go to the library, but to the field where fine strawberries may be found.
+_“Consider a thing such as a strawberry. If we wish to find the word 'strawberry', we look in a dictionary; if we wish to find a description of a strawberry, we look in an encyclopedia. But if we are hungry, we do not go to the library, but to the field where fine strawberries may be found._
 
-“\[…\] understanding stems from one of the two forms of knowledge. It stems from that which is called cognitive knowledge, the knowledge born of words and numbers, and other similar devices. The other form of knowledge, conative knowledge, needs no words or other such devices, for it is the form of knowledge born of direct personal experience. So it is that conative knowledge is also known as experiential knowledge. Cognitive and experiential knowledge both have their roots in reality, but reality is complex, and complexity is more of a barrier to cognitive knowledge than it is to experiential knowledge, for when we seek cognitive knowledge of a thing, that is, understanding of it, the knowledge we gain of that thing is understanding only of its manifestations, which is not knowledge of the thing itself."
+_“\[…\] understanding stems from one of the two forms of knowledge. It stems from that which is called cognitive knowledge, the knowledge born of words and numbers, and other similar devices. **The other form of knowledge, conative knowledge, needs no words or other such devices, for it is the form of knowledge born of direct personal experience.** So it is that conative knowledge is also known as experiential knowledge. Cognitive and experiential knowledge both have their roots in reality, but reality is complex, and complexity is more of a barrier to cognitive knowledge than it is to experiential knowledge, for when we seek cognitive knowledge of a thing, that is, understanding of it, the knowledge we gain of that thing is understanding only of its manifestations, which is not knowledge of the thing itself."_
 
 Part of what we’re attempting to do at the Pentathlon — and it seems like we’ve been succeeding so far — is giving you both a conative understanding of what peak productivity feels like, so it’s fully experienced, as well as a supporting cognitive understanding so you that can identify what elements are helping you reach peak productivity, to build them into your life on a permanent basis.
 
@@ -61,11 +55,11 @@ Notably, we structure the Pentathlon as a competition that has both individual a
 
 Studies have shown that athletes that train together, even in individual sports, have higher levels of endurance and power output, and report less fatigue after training with others in their sport than when training alone. That’s one reason why you see track teams and powerlifters often training together.
 
-For whatever strange reason, people are far more willing to break commitments to themselves — whether related to doing one’s most important work, fitness, a good habit like planning each day, or whatever else — than they are to break commitments to a team and other people.
+For whatever strange reason, people are typically far more willing to break commitments to themselves — whether related to doing one’s most important work, fitness, a good habit like planning each day, or whatever else — than they are to break commitments to a team and other people.
 
 A number of past attendees have related how the team dynamics and momentum helped them not break their commitments and kept them aiming for perfect scores and hitting their targets — and again, once you see the gains and benefits from running at peak productivity for even a couple weeks, you’ve got the conative knowledge of it, and it becomes easier to establish those patterns going forwards in your own life.
 
-“Only a few days into the Pentathlon, I thought I wanted to have some slack — but then I thought, I don’t want to let my teammates down. I need to get back to work and stay consistent in my habits. That helped me keep a perfect score.” — Mony Chhim
+_“Only a few days into the Pentathlon, I thought I wanted to have some slack — but then I thought, I don’t want to let my teammates down. I need to get back to work and stay consistent in my habits. That helped me keep a perfect score.”_ — Mony Chhim
 
 Tangible progress markers — daily and weekly scoring — additionally helps people mark and improve progress, as well as giving tangible feedback if things get off-track. It’s easy to have habits dissolve for unknown reasons if they’re not being tracked — but if they’re being tracked, measured, and scored daily, you get instant feedback if you miss your targets for a day, and can make immediate adjustments.
 
@@ -87,11 +81,11 @@ Five items we've found lead to a much greater experience on the Pentathlon and l
 
 The largest thing you can do to help yourself succeed here is one that might sound boring, trite, and banal — you've no doubt heard it before — but genuinely committing to maximum excellence here is something we see the top performers often explicitly do.
 
-"I made a decision I was going to win, that was the \#1 thing — I made a commitment. I was f'ing determined not to miss a single day — other people were clearly not missing their days. Most of this stuff is just showing up and doing it — so I did it." — Michael Smith, perfect scoring on UWP3
+_"I made a decision I was going to win, that was the \#1 thing — I made a commitment. I was f'ing determined not to miss a single day — other people were clearly not missing their days. Most of this stuff is just showing up and doing it — so I did it." — Michael Smith, perfect scoring on UWP3_
 
 Again, commitment can't be overstated — Diarmuid Kidney runs a small tech agency in his civilian life, but is also a reserve NCO in the Irish Army. For half of Pentathlon 3, he was doing military training exercises. He explained,
 
-"I knew what it would take to get it done. It was tough — really rough — since I was away for half the time doing full-time with the Army. I had to make a commitment to get up early, and do the most important work an hour before everyone would wake up, and get another hour done when we had a bit of downtime. It was tough, but I managed to do it."
+_"I knew what it would take to get it done. It was tough — really rough — since I was away for half the time doing full-time with the Army. I had to make a commitment to get up early, and do the most important work an hour before everyone would wake up, and get another hour done when we had a bit of downtime. It was tough, but I managed to do it."_
 
 This theme recurs repeatedly among people who do excellent on the Pentathlon — they committed at the beginning to maxing out and doing excellent. It sounds simple, basic, maybe even trite — but it's a consistent theme among the people who get the most out of the Pentathlon.
 
@@ -113,9 +107,7 @@ Everyone's situation is different, but not totally unpredictable — think throu
 
 We've noticed that people who journal about their experience, and who take notes from the trainings, do better.
 
-Maximilan Schoenberger took extensive notes on how to set up and run Work Cycles — his notes have been helpful both to himself in mastering personal productivity, and to everyone else who gets to read his notes.
-
-// link Max's notes
+Maximilan Schoenberger took extensive notes on how to set up and run Work Cycles — his notes have been helpful both to himself in mastering personal productivity, and to everyone else who gets to read his notes. We'll cover Max's notes further in the [Work Cycles section](https://ultraworking.gitbooks.io/pentathlon-guidance/content/work-cycles.html).
 
 Both Ultraworking founders, Sebastian Marshall and Kai Zau, keep daily journals.
 
@@ -123,13 +115,10 @@ This doesn't need to be a big "production" — even a few sentences about how yo
 
 If you want a very simple journaling prompt, you could try what Marshall fills out at the end of every day —
 
-What went right today?
-
-What would I do differently?
-
-What environmental factors affected me?
-
-What am I currently improving?
+_What went right today?    
+What would I do differently?    
+What environmental factors affected me?    
+What am I currently improving?_
 
 The added benefit of keeping a journal is it lets you analyze what type of habits, moods, and work leads you to more success or less success over time — if you have a very successful week, for instance, you can re-read your journals and notes for lessons to implement permanently. It's not essential, but it's pretty well-proven to work and lead to learning a lot more about yourself — and thus to thrive more.
 
@@ -147,7 +136,7 @@ What does matter — commitment and momentum. There will be time during the Pent
 
 Everyone on the Pentathlon has carved out two weeks for peak performance — these are like-minded people, and they can support you and you can support them — if you make the effort to do it.
 
-"Once I started, I decided I wanted to put up perfect scores — and was happy to have another member of my team \(Kendra\) also put up perfect scores. For the team, I set up a simple Slack channel so we could communicate… just simple stuff, "Hey, hit my goals for the day" — or "I'm flying this weekend, any tips for keeping up targets I might miss?" It helped to analyze situations where we might miss, and I enjoyed getting to know people." — Nick Winter, perfect-scoring and winning team during UWP2
+_"Once I started, I decided I wanted to put up perfect scores — and was happy to have another member of my team \(Kendra\) also put up perfect scores. For the team, I set up a simple Slack channel so we could communicate… just simple stuff, "Hey, hit my goals for the day" — or "I'm flying this weekend, any tips for keeping up targets I might miss?" It helped to analyze situations where we might miss, and I enjoyed getting to know people."_ — Nick Winter, perfect-scoring and winning team during UWP2
 
 ## Take a Leadership Role on Your Team
 
