@@ -6,5 +6,5 @@
 * [Strong Teams](strong-teams.md)
 * [Work Cycles](work-cycles.md)
 * Press and Sharing
-* [Next Steps](3-next-steps.md)
+* [Onwards](3-next-steps.md)
 
