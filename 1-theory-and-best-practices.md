@@ -1,4 +1,4 @@
-## What the Pentathlon Does
+# What the Pentathlon Does
 
 We built the Pentathlon to serve two purposes —
 
@@ -9,7 +9,9 @@ It seems to be working well — we’ve now had hundreds of people join the Pent
 
 In this document, we'll cover both some of the "behind the scenes" theory, as well as best practices to hit the ground running, thrive, and carry the lessons forward with you forever.
 
-## Systemic 1% Edges
+![](/assets/outreach.jpg)
+
+# Systemic 1% Edges
 
 _“I was blown away by the system — seeing it in action. It’s not the first time I read something about productivity and how to organize your day, self-help in the grand scheme of things, but seeing it put into action for the first time… it really opened my eyes and I realized how to do it in a very practical way, down to starting, stopping, setting up the time schedule, fixing the five or six important things in your day… that was actually very very worthwhile.”_
 
@@ -27,7 +29,7 @@ The challenge, again, is identifying these 1% edges and putting them into practi
 
 That’s the core of the Pentathlon — stacking up a large number of 1% edges and best practices, you committing to them, and then us supporting you with as many other elements that we know help someone stay motivated, inspired, consistent, and effective.
 
-## Conative Knowledge
+# Conative Knowledge
 
 You probably know the word “cognitive” — which relates to thinking — but do you know the word “conative”?
 

@@ -1,3 +1,5 @@
+![](/assets/work-cycles.jpg)
+
 # Work Cycles, and Getting Hard Work Done Reliably
 
 On the first Pentathlon in mid-2016, we held one set of "Work Cycles" to kick off the Pentathlon.
@@ -240,9 +242,7 @@ Think about switching costs. "Blended Work“ is just slower. Simple as that.
 
 # Thanks Max
 
-Again, we'll do full training on Work Cycles on the first Saturday of the Pentathlon, but those are good refresher guidelines for running your own Cycles once you have the basics down. 
+Again, we'll do full training on Work Cycles on the first Saturday of the Pentathlon, but those are good refresher guidelines for running your own Cycles once you have the basics down.
 
 A huge thanks to Max Schoenberger for the detailed notes; if you wind up taking similar notes, definitely forward them to us and we'll incorporate them into Pentathlon guidance for future attendees.
-
-
 

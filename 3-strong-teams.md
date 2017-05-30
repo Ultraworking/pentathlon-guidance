@@ -4,15 +4,17 @@ The Pentathlon is primarily a solo event – you can have a great experience jus
 
 And yet, teamwork, cooperation, and camaraderie are huge boosts to success and consistency. Knowing there's other like-minded people in it together with you goes a long ways in making work easier and life more enjoyable. We've seen people thrive to a higher degree on the Pentathlon when they're on a strong team, and we've seen great friendships and connections come out of it too.
 
+![](/assets/workcycles.jpg)
+
 # What Matters and What Doesn't
 
 The first point is the critical one.
 
 **The strongest teams establish a channel of communication for themselves, but it doesn't matter what that channel is.**
 
-We've seen teams create a Slack channel, Facebook group, Whatsapp group, or any other number of technologies for staying in touch.
+We've seen teams create a Slack channel, Facebook group, WhatsApp group, or any other number of technologies for staying in touch.
 
-_What _tech you use matters far less than that you use something, and that you use it regularly.
+_What_ tech you use matters far less than that you use something, and that you use it regularly.
 
 # Leadership and Getting to Know One's Team
 
@@ -26,12 +28,13 @@ We do some basics of getting everyone's bio and sharing it amongst team, but goi
 
 **A single person taking a leadership role in engaging people can make a huge difference.** If you want to max out the chances of having a strong team, look to personally engage and ask questions to anyone in the group who might be a little more quiet or shy. In general, participants on the Pentathlon tend to be very engaged and driven, but additional leadership goes a long way towards having people get engaged with their team.
 
-You might consider looking to understand about your teammates early:    
---&gt; Who they are    
---&gt; What their Most Important Work is    
---&gt; What their schedule is usually like    
---&gt; What challenges they anticipate might come up    
---&gt; Sharing best recommendations and resources
+You might consider looking to understand about your teammates early:
+
+* Who they are
+* What their Most Important Work is
+* What their schedule is usually like
+* What challenges they anticipate might come up
+* Sharing best recommendations and resources
 
 Getting these discussions in on the first day or two goes a long way towards a strong team.
 
@@ -53,7 +56,7 @@ Once again, you can take a leadership role in asking others what challenges they
 
 # General Life Lessons Around Teams
 
-You can learn a lot about general team dynamics and interpersonal dynamics through the Pentathlon. After all, it's a great jolt of peak performance, but the stakes aren't _that _high in the grand scheme of things.
+You can learn a lot about general team dynamics and interpersonal dynamics through the Pentathlon. After all, it's a great jolt of peak performance, but the stakes aren't _that_ high in the grand scheme of things.
 
 Some teams come together better than others. Noteworthily, if one team member sloughs off checking in and participating, that can have a detrimental effect on a team. If two team members do it, the whole team norms sometimes fall apart.
 
@@ -68,6 +71,4 @@ Over and above that, though, people who join the Pentathlon with friends and col
 Over 30% of the people who newly join the Pentathlon do it through direct referrals from a past attendee, which is a fantastic rate, and those people often go to on succeed at a great rate knowing that their real-life friend, family member, or colleague is on the Pentathlon and seeing their results and encouraging them, and vice-versa. By all means, to max out the chances of having a strong team, encourage a friend, colleague, or family member to join alongside you, which is a great experience.
 
 From there, you'll learn a lot about how teams form, and can get practice and become more skilled at putting together great mutual accountability and support with other people. Then, these lessons can carry forth into everyday life.
-
-
 

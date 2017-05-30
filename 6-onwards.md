@@ -14,5 +14,5 @@ Thanks a million, and we're thrilled to have you on the Pentathlon.
 
 Yours,  
 Sebastian Marshall and Kai Zau  
-[Ultraworking](https://www.ultraworking.com/)
+[**Ultraworking**](https://www.ultraworking.com/)
 
