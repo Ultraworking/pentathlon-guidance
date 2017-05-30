@@ -1,4 +1,4 @@
-# Pentathlon {{book.pentathlonNumber}} Guidance: Overview
+# Pentathlon Guidance: Overview
 
 Top performers all around the world have joined the _Ultraworking Pentathlon_ to help reach peak performance during the Pentathlon, and to learn and cement lessons which lead to peak performance _forever_.
 

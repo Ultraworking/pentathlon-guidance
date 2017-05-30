@@ -1,4 +1,4 @@
-# Onwards
+# Onwards!
 
 We hope this guidelines are useful to you during the Pentathlon, to maximally thrive on it.
 
@@ -12,9 +12,7 @@ If you wind up taking any other notes or guidelines on having a great Pentathlon
 
 Thanks a million, and we're thrilled to have you on the Pentathlon.
 
-Yours,    
-Sebastian Marshall and Kai Zau    
+Yours,  
+Sebastian Marshall and Kai Zau  
 [Ultraworking](https://www.ultraworking.com/)
-
-
 
