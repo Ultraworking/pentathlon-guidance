@@ -61,7 +61,7 @@ For whatever strange reason, people are typically far more willing to break comm
 
 A number of past attendees have related how the team dynamics and momentum helped them not break their commitments and kept them aiming for perfect scores and hitting their targets — and again, once you see the gains and benefits from running at peak productivity for even a couple weeks, you’ve got the conative knowledge of it, and it becomes easier to establish those patterns going forwards in your own life.
 
-> “Only a few days into the Pentathlon, I thought I wanted to have some slack — but then I thought, I don’t want to let my teammates down. I need to get back to work and stay consistent in my habits. That helped me keep a perfect score.” 
+> “Only a few days into the Pentathlon, I thought I wanted to have some slack — but then I thought, I don’t want to let my teammates down. I need to get back to work and stay consistent in my habits. That helped me keep a perfect score.”
 >
 > — Mony Chhim
 
@@ -85,7 +85,7 @@ Five items we've found lead to a much greater experience on the Pentathlon and l
 
 The largest thing you can do to help yourself succeed here is one that might sound boring, trite, and banal — you've no doubt heard it before — but genuinely committing to maximum excellence here is something we see the top performers often explicitly do.
 
-> "I made a decision I was going to win, that was the \#1 thing — I made a commitment. I was f'ing determined not to miss a single day — other people were clearly not missing their days. Most of this stuff is just showing up and doing it — so I did it." 
+> "I made a decision I was going to win, that was the \#1 thing — I made a commitment. I was f'ing determined not to miss a single day — other people were clearly not missing their days. Most of this stuff is just showing up and doing it — so I did it."
 >
 > — Michael Smith, perfect scoring on UWP3
 
@@ -113,7 +113,7 @@ Everyone's situation is different, but not totally unpredictable — think throu
 
 We've noticed that people who journal about their experience, and who take notes from the trainings, do better.
 
-Maximilian Schoenberger took extensive notes on how to set up and run Work Cycles — his notes have been helpful both to himself in mastering personal productivity, and to everyone else who gets to read his notes. We'll cover Max's notes further in the [Work Cycles section](https://ultraworking.gitbooks.io/pentathlon-guidance/content/work-cycles.html).
+Maximilian Schoenberger took extensive notes on how to set up and run Work Cycles — his notes have been helpful both to himself in mastering personal productivity, and to everyone else who gets to read his notes. We'll cover Max's notes further in the [Work Cycles section](/4-work-cycles.md).
 
 Both Ultraworking founders, Sebastian Marshall and Kai Zau, keep daily journals.
 
@@ -142,7 +142,7 @@ What does matter — commitment and momentum. There will be time during the Pent
 
 Everyone on the Pentathlon has carved out two weeks for peak performance — these are like-minded people, and they can support you and you can support them — if you make the effort to do it.
 
-> "Once I started, I decided I wanted to put up perfect scores — and was happy to have another member of my team \(Kendra\) also put up perfect scores. For the team, I set up a simple Slack channel so we could communicate… just simple stuff, "Hey, hit my goals for the day" — or "I'm flying this weekend, any tips for keeping up targets I might miss?" It helped to analyze situations where we might miss, and I enjoyed getting to know people." 
+> "Once I started, I decided I wanted to put up perfect scores — and was happy to have another member of my team \(Kendra\) also put up perfect scores. For the team, I set up a simple Slack channel so we could communicate… just simple stuff, "Hey, hit my goals for the day" — or "I'm flying this weekend, any tips for keeping up targets I might miss?" It helped to analyze situations where we might miss, and I enjoyed getting to know people."
 >
 > — Nick Winter, perfect-scoring and winning team during UWP2
 
