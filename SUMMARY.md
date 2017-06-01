@@ -5,8 +5,5 @@
   * [Target Setting and Scoring](2-target-setting-and-scoring.md)
   * [Strong Teams](3-strong-teams.md)
   * [Work Cycles](4-work-cycles.md)
-* [Press and Sharing](5-press-and-sharing.md)
 * [Onwards!](6-onwards.md)
-
-
 
