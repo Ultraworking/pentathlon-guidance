@@ -1,6 +1,6 @@
 # Onwards!
 
-We hope this guidelines are useful to you during the Pentathlon, to maximally thrive on it.
+We hope these guidelines are useful to you during the Pentathlon and that you maximally thrive on it.
 
 If you have any friends, family, or colleagues who'd like to join, they can register at:
 
