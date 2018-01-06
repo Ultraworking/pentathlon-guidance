@@ -4,9 +4,19 @@
 
 Team Chat is a way to communicate with your teammates on the Pentathlon, and receive announcements about the state of competition from the Pentathlon bot. It works great and the teams that use chat the most typically wind up winning — as well as getting much higher individual performances. We'll get you set up on the Team Chat on the Opening Call on Saturday.
 
+#### How can I update my profile photo?
+
+We pull profile photos directly from [gravatar.com](https://en.gravatar.com/). That's from the same company that runs Wordpress. All you have to do is:
+
+1. Go to[ https://en.gravatar.com/](https://en.gravatar.com/)
+2. Click "Create Your Own Gravatar" \(or "Sign In" if you already have an account\)
+3. Add the email that you're currently registered with for your Pentathlon account
+
+That's it!
+
 #### How does scoring work?
 
-You're scored each day on five categories: Sleep/Wake Schedule, Most Important Work \(scored twice, for both Consistency and Depth\), Physical Fitness, Nutrition, and Planning. 
+You're scored each day on five categories: Sleep/Wake Schedule, Most Important Work \(scored twice, for both Consistency and Depth\), Physical Fitness, Nutrition, and Planning.
 
 Sleep/Wake, Fitness, Nutrition, and Planning are all binary — you get 100 points if you did them, and 0 points if you did not. Most Important Work is a little different — you get 100 points for doing at least 10 minutes of your MIW to help you stay consistent, and 1 point per minute spent on MIW up to a maximum of 100 points for 100 minutes. That's just a little more than an hour and a half, but that's _way_ more than the average person does in a normal day on their Most Important Work.
 
